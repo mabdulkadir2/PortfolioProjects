@@ -1,5 +1,6 @@
-This is a repository specifically created for my project around the data exploration for COVID-19.
-  - Tools used in this project were Excel, SQL, and Tableau. 
-  - I first cleaned the data in excel and transferred the data to SQL. 
-  - After, I explored the data in SQL by comparing the deaths/vaccinations that have happened since the start of 2020 until the end and closely focusing on that. 
-  - Created views then transferred the data to Tableau to visualize our findings.
+This is a repository specifically created for my project around the data exploration for COVID-19. USed a variety of tools to extract insights and tell a compelling story with data.
+
+Tools used in this project were Excel, SQL, and Tableau.
+I first cleaned and manipulated the dataset in Excel, using formulas and functions to calculate averages and more. I then transferred the data to SQL.
+In SQL, I used the cleaned dataset from Excel to join tables, using that to make comparisons between the deaths/vaccinations produced from COVID, and created more complex queries.  
+Created views to look closely on which insights seemed more significant, then transferred the data to Tableau to visualize our findings.
