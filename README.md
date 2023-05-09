@@ -3,3 +3,5 @@ This is a repository specifically created for my project around the data explora
    - I first cleaned and manipulated the dataset in Excel, using formulas and functions to calculate averages and more. I then transferred the data to SQL.
    - In SQL, I used the cleaned dataset from Excel to join tables, using that to make comparisons between the deaths/vaccinations produced from COVID, and created more complex queries.  
    - Created views to look closely on which insights seemed more significant, then transferred the data to Tableau to visualize our findings.
+
+Here is the link to the data visualization created in Tableau: https://prod-useast-b.online.tableau.com/#/site/mohamedabdulkadir/views/COVIDVDataExploration/Dashboard1?:iid=5
